@@ -1,0 +1,1 @@
+{"agents": 100, "steps": 3, "seed": 0, "income": 100, "redist": 0, "network_neighbors": 2, "network_randomness": 0.1, "ctax": 0, "ctax_redist": 0, "imp_norms": 1.0, "imp_norms_recreation": 1.0, "warnings": true, "clip_resources": false, "record_minimize_log": true}
